@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Andrew 👋
+
+---
+#### About Me
+- I'm a third year B.S. Computer Science student at the Univerisity of Minnesota - Twin Cities
+- My current Computer Science passion is graphics and graphics rendering (see my [ray tracer](https://github.com/andrew-guerra/raytracer))
+- When I'm not trying to fix bugs, I love to bake and rock climb
+---
 
 <!--
 **andrew-guerra/andrew-guerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
